@@ -1,0 +1,2 @@
+hola 
+vamos a hacer una serie de pasos en git
