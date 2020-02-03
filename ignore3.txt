@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 a hacer unos cambios aqui para veer que pasa
 
 algo cambio en este archivo y vamos a ver si sale en stageing
+=======
+>>>>>>> parent of b55ea12... cambios en ignore3
