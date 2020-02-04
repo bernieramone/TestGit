@@ -1,0 +1,79 @@
+[33mcommit 14e58fab112ef069d3d5d542a8186bb315d4a33e[m[33m ([m[1;36mHEAD -> [m[1;32mimprove-readme-description[m[33m)[m
+Author: BerNie Ramone <makio1981@hotmail.com>
+Date:   Mon Feb 3 18:18:29 2020 -0600
+
+    branch new
+
+[33mcommit 7cdff3379e40cb47bc4dff9bd250b275f3a7c418[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: BerNie Ramone <makio1981@hotmail.com>
+Date:   Mon Feb 3 17:57:15 2020 -0600
+
+    cambios para mandar el nuevo commit
+
+[33mcommit 7c41a129e6fa5dc5fa215e586695cb885a3a152e[m
+Author: BerNie Ramone <makio1981@hotmail.com>
+Date:   Mon Feb 3 17:39:50 2020 -0600
+
+    Revert "ignore5"
+    
+    This reverts commit c8d8ef7058584b7f41b79047708332dcdd8761cd.
+
+[33mcommit c8d8ef7058584b7f41b79047708332dcdd8761cd[m
+Author: BerNie Ramone <makio1981@hotmail.com>
+Date:   Mon Feb 3 17:39:20 2020 -0600
+
+    ignore5
+
+[33mcommit 30e00958483ccaf43f776e5c49e0144b3a6caf06[m
+Author: BerNie Ramone <makio1981@hotmail.com>
+Date:   Mon Feb 3 17:37:52 2020 -0600
+
+    Llevar a josie a home
+
+[33mcommit b792fabe307047dd7277c940154b652ff4bd7afb[m
+Author: BerNie Ramone <makio1981@hotmail.com>
+Date:   Mon Feb 3 17:24:44 2020 -0600
+
+    cambios en archivo
+
+[33mcommit b55ea125c4f120953b9dc9099459765e56fc98c5[m
+Author: BerNie Ramone <makio1981@hotmail.com>
+Date:   Mon Feb 3 17:19:46 2020 -0600
+
+    cambios en ignore3
+
+[33mcommit f3f06eb673a2fdd540c10d55a8805a047f2be3fe[m
+Author: BerNie Ramone <makio1981@hotmail.com>
+Date:   Mon Feb 3 17:11:23 2020 -0600
+
+    cambios
+
+[33mcommit 0ac3710f7639d7308ef3062ab71f8613b8a4135c[m
+Author: BerNie Ramone <makio1981@hotmail.com>
+Date:   Mon Feb 3 17:10:25 2020 -0600
+
+    Prueba con archivos ingnorar
+
+[33mcommit e991ae8a62f0288d56e19b434a552341637a0ee5[m
+Author: BerNie Ramone <makio1981@hotmail.com>
+Date:   Mon Feb 3 17:07:03 2020 -0600
+
+    se agrega gitignore
+
+[33mcommit a1253943a05705a647d4919478e840f76a5ab9c4[m
+Author: BerNie Ramone <makio1981@hotmail.com>
+Date:   Mon Feb 3 17:03:56 2020 -0600
+
+    Add readme file
+
+[33mcommit 16ee0a400f3d20b4fddcd6163321e0db5ddbea4f[m
+Author: BerNie Ramone <makio1981@hotmail.com>
+Date:   Mon Feb 3 16:42:47 2020 -0600
+
+    listo el cambio
+
+[33mcommit 43ebd9d174f203dc3ce8a319f56da49a1939b523[m
+Author: BerNie Ramone <makio1981@hotmail.com>
+Date:   Mon Feb 3 16:39:45 2020 -0600
+
+    Initial commit
